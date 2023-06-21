@@ -1,1 +1,1 @@
-# React_Task_2
+# Calculator using react.js
